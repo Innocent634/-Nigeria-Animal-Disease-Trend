@@ -1,7 +1,10 @@
 # -Nigeria-Animal-Disease-Trend
 ## Project Objective To analyze Animal Disease data across selected states in Nigeria providing useful details regarding disease outbreak for monitoring and containment.
-## Dataset Used
 
+## Dataset Used
+[Get .pbix File](https://github.com/Innocent634/-Nigeria-Animal-Disease-Trend/raw/refs/heads/main/AI%20Generated%20Nigerian%20Animal%20Disease%20Trends.pbix)
+
+[Get .xlsx File](https://github.com/Innocent634/-Nigeria-Animal-Disease-Trend/raw/refs/heads/main/Nigeria_Animal_Disease_Trends_With_Coordinates.xlsx)
 ## Questions
 - Which disease resulted to the highest death?
 - Which diseases have the highest severity index?
@@ -14,6 +17,7 @@
 - Yearly disease outbreak trend 
 
 ## Dashboard
+<img width="1112" height="557" alt="Animal Disease Trend" src="https://github.com/user-attachments/assets/f656d8c4-d101-425b-96b7-cf917a9bea58" />
 
 ### Data Preparation
 - Animal Disease Trends AI generated  raw data table was used
